@@ -1,0 +1,12 @@
+body {
+    background-image: url("room.jpeg");
+    background-size: 1350px;
+    text-align: center;
+    font-size: x-large;
+}
+ aside{
+    text-align: right;
+}
+aside a{
+    color:#170101;
+}
